@@ -194,11 +194,3 @@ validation.
 5. F. Pedregosa et al., “Scikit-learn: Machine Learning in Python”, *JMLR* 12, 2011.
 6. Streamlit documentation. https://docs.streamlit.io
 
-## 17. Team Contributions
-| Member | Responsibility | Deliverable |
-|--------|----------------|-------------|
-| 1 | Dataset research & collection | dataset documentation, §4–5 |
-| 2 | PySpark processing | `01_data_processing_and_cleaning.ipynb`, processed Parquet |
-| 3 | EDA & visualisation | `02_eda.ipynb`, figures |
-| 4 | Machine learning | `03_model_training.ipynb`, `models/` |
-| 5 | Dashboard & deployment | `dashboard/app.py`, deployment |
