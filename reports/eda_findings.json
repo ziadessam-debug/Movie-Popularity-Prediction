@@ -1,0 +1,13 @@
+{
+  "popularity": "Median popularity 1.14, 90th pct 8.36, 99th pct 17.03, max 547.5; skewness 29.2 (log scale: 0.79).",
+  "genre": "Highest median popularity: Adventure (2.98); lowest: Documentary (0.39). Most common genre: Drama (20043 movies).",
+  "year": "Peak release year in the data: 2014 (1960 movies). 53% of the movies were released in 2000 or later. Note: 2017 is incomplete (data collected in 2017).",
+  "budget": "Only 19% of movies report a budget. Among them, Spearman correlation budget↔popularity = 0.60. Median popularity with known budget 6.50 vs unknown budget 0.87.",
+  "runtime": "Median runtime 95 min. Spearman runtime↔popularity = 0.27; highest median popularity in the (120, 140] min bucket.",
+  "month": "Highest median popularity for Jul releases (1.46), lowest for Jan (0.75). Most releases: Jan — note January 1st is often a placeholder date in TMDB.",
+  "language": "English accounts for 71% of movies. Highest median popularity among languages with ≥200 movies: 'cn' (1.76); lowest: 'fi' (0.24).",
+  "correlation": "Strongest pre-release correlates of popularity: num_companies (0.47), log_budget (0.47), budget_known (0.45). Post-release vote_count correlates at 0.89 — confirming popularity largely reflects audience activity after release.",
+  "budget_dist": "Median known budget $9.0M, mean $22.3M, max $380M — strongly right-skewed, hence the log transform.",
+  "franchise": "Collection/franchise movies: median popularity 3.71 vs 1.03 for standalone films (10% of movies belong to a collection).",
+  "engagement": "Across 9004 movies joined with MovieLens ratings, Spearman(rating count, popularity) = 0.51 — post-release engagement is strongly linked to popularity, which is why it must not be a pre-release model input."
+}
