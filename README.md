@@ -143,15 +143,6 @@ runtime, US production.
   large blockbusters remain hard to predict exactly (R² ≈ 0.20).
 - Data ends in 2017; predictions for later years are extrapolations.
 
-## Team members
-| Member | Responsibility |
-|--------|----------------|
-| Member 1 — _name_ | Data collection & dataset research |
-| Member 2 — _name_ | PySpark processing notebook (01) |
-| Member 3 — _name_ | EDA & visualisation (02) |
-| Member 4 — _name_ | Machine learning & evaluation (03) |
-| Member 5 — _name_ | Streamlit dashboard, integration & deployment |
-
 ## References
 - R. Banik, *The Movies Dataset*, Kaggle, 2017. https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 - The Movie Database (TMDB) API. https://www.themoviedb.org/documentation/api
